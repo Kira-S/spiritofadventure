@@ -8,7 +8,6 @@ if (password=="вперёд к приключениям!") {
  window.location = "main.html";
 }
 else {
-  (login_ok==false);
   alert("Неверный пароль!");
   window.location = "404.html";
 }
