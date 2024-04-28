@@ -9,7 +9,7 @@ if (password=="вперёд к приключениям!") {
 }
 else {
   (login_ok==false);
-  alert("Неверный логин или пароль!");
+  alert("Неверный пароль!");
   window.location = "404.html";
 }
 }
