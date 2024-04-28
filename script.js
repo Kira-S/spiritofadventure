@@ -1,12 +1,9 @@
 function Input(){
 login_ok = false;
-user_name = "";
 password = "";
-user_name = prompt("Логин","");
-user_name = user_name.toLowerCase();
 password = prompt("Пароль","");
 password = password.toLowerCase();
-if (user_name=="admin" && password=="newyear") {
+if (password=="вперёд к приключениям!") {
  login_ok = true;
  window.location = "main.html";
 }
