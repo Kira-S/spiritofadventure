@@ -17,10 +17,11 @@ p {
   max-width: 60%;
 }
 .potion {
+  margin-top: 50px;
   margin-left: 30px;
   padding-left: 5px;
   padding-right: 5px;
-  max-width: 80%;
+  max-width: 70%;
   color: #343634;
   font-size: 42px;
   box-shadow: 0 0 5px;
